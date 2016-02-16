@@ -8,4 +8,3 @@ age -= months * 30
 print '%d ano(s)' % years
 print '%d mes(es)' % months
 print '%d dia(s)' % age
-

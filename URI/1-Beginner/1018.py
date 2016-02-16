@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 
-def calc(n, value):
+
+def calc(count, value):
     qnt = 0
-    if n >= value:
-        qnt = n / value
+    if count >= value:
+        qnt = count / value
     print '%d nota(s) de R$ %d,00' % (qnt, value)
-    return n - qnt * value
+    return count - qnt * value
+
 
 n = int(raw_input())
 
@@ -17,4 +19,3 @@ n = calc(n, 10)
 n = calc(n, 5)
 n = calc(n, 2)
 n = calc(n, 1)
-

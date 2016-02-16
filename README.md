@@ -15,4 +15,4 @@ Here you will find solutions for problems that I've solved. Almost all of them i
 
 ## Copyright and license
 
-Copyright 2015-, Vicente Neto. This project is licensed under the [MIT License](https://github.com/vicenteneto/online-judge-solutions/blob/master/LICENSE).
+Copyright 2016-, Vicente Neto. This project is licensed under the [MIT License](https://github.com/vicenteneto/online-judge-solutions/blob/master/LICENSE).

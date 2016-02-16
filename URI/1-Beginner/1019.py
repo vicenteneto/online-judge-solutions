@@ -6,4 +6,3 @@ n -= hours * 3600
 minutes = int(n / 60)
 n -= minutes * 60
 print '%d:%d:%d' % (hours, minutes, n)
-
