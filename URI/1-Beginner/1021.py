@@ -18,7 +18,7 @@ n = calc_note(n, 20)
 n = calc_note(n, 10)
 n = calc_note(n, 5)
 n = calc_note(n, 2)
-print 'MOEDAS'
+print 'MOEDAS:'
 print '%d moeda(s) de R$ 1.00' % int(n)
 n -= int(n)
 m50 = n / 0.50

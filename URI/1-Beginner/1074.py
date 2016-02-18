@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 
-n = int(raw_input())
-
-for i in range(n):
+for i in range(int(raw_input())):
     x = int(raw_input())
     if x == 0:
         print 'NULL'
