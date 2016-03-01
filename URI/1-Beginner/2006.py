@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
 
-'''
-Escreva a sua solução aqui
-Code your solution here
-Escriba su solución aquí
-'''
+t = int(raw_input())
+print sum([1 for x in raw_input().split() if int(x) == t])
