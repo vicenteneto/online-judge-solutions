@@ -1,6 +1,6 @@
 # online-judge-solutions
 
-Here you will find solutions for problems that I've solved. Almost all of them in Python, but you can find some solution in C++ or Java.
+Here you will find solutions for problems that I've solved. Almost all of them in Python, but you can find some solution in C or C++.
 
 ## Table of contents
 
