@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-'''
-Escreva a sua solução aqui
-Code your solution here
-Escriba su solución aquí
-'''
+a, b = [float(x) for x in raw_input().split()]
+
+print '%.2f' % ((b / a - 1) * 100) + '%'
